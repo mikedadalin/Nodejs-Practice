@@ -1,0 +1,1291 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"fun",
+				"function"
+			],
+			[
+				"user",
+				"user_entered_cur"
+			],
+			[
+				"curr",
+				"currencyCheck"
+			],
+			[
+				"pos",
+				"position\tproperty"
+			],
+			[
+				"ajax",
+				"ajax\t$.ajax()"
+			],
+			[
+				"vali",
+				"validateBO"
+			],
+			[
+				"print",
+				"printbono"
+			],
+			[
+				"todate",
+				"todateUSA"
+			],
+			[
+				"from",
+				"fromdateUSA"
+			],
+			[
+				"fr",
+				"fromdate"
+			],
+			[
+				"date",
+				"dateRange"
+			],
+			[
+				"for",
+				"for\tfor (…) {…}"
+			],
+			[
+				"tabl",
+				"tableA"
+			],
+			[
+				"MAX",
+				"MAX_VERISON"
+			],
+			[
+				"fn5b",
+				"FN5BR6P"
+			],
+			[
+				"f",
+				"F5B"
+			],
+			[
+				"now",
+				"now_time"
+			],
+			[
+				"de",
+				"DECLARE"
+			],
+			[
+				"class",
+				"className"
+			],
+			[
+				"bpv",
+				"bpvno3"
+			],
+			[
+				"bp",
+				"bpvno2"
+			],
+			[
+				"vn",
+				"vno3"
+			],
+			[
+				"item",
+				"itemcode_validate"
+			],
+			[
+				"jo",
+				"jobtype"
+			],
+			[
+				"check",
+				"checkCurrency_errormessage"
+			],
+			[
+				"P1",
+				"P1RATE"
+			],
+			[
+				"fil",
+				"field2"
+			],
+			[
+				"file",
+				"field"
+			],
+			[
+				"fie",
+				"field"
+			],
+			[
+				"object",
+				"object"
+			],
+			[
+				"obj",
+				"object"
+			],
+			[
+				"we",
+				"web"
+			],
+			[
+				"table",
+				"table_number"
+			],
+			[
+				"java",
+				"JavaScript"
+			],
+			[
+				"B4",
+				"B4SEQ"
+			],
+			[
+				"c2_W4pr",
+				"c2_W4PRJ"
+			],
+			[
+				"in",
+				"indexOf"
+			],
+			[
+				"DEn",
+				"DEN12"
+			],
+			[
+				"PH",
+				"PHPONO"
+			],
+			[
+				"BP",
+				"BPSITE"
+			],
+			[
+				"border",
+				"border-bottom"
+			],
+			[
+				"output",
+				"output_value"
+			],
+			[
+				"out",
+				"output_value"
+			],
+			[
+				"input",
+				"input_valueN〔variable〕"
+			],
+			[
+				"CR",
+				"CREDAT"
+			],
+			[
+				"lin",
+				"linkname"
+			],
+			[
+				"inlie",
+				"inline-block"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"valida",
+				"validateSum"
+			],
+			[
+				"requi",
+				"required"
+			],
+			[
+				"Pass",
+				"PassWord"
+			],
+			[
+				"re",
+				"required\tAttr"
+			],
+			[
+				"sl",
+				"selected"
+			],
+			[
+				"S",
+				"Spinloader"
+			],
+			[
+				"Sin",
+				"SpinDiv"
+			],
+			[
+				"sp",
+				"separate"
+			],
+			[
+				"rgb",
+				"rgb(〔value〕"
+			],
+			[
+				"backgroun",
+				"background-color"
+			],
+			[
+				"bor",
+				"border-collapse"
+			],
+			[
+				"TOtal",
+				"TotalAmount"
+			],
+			[
+				"PCF",
+				"PCESFR_"
+			],
+			[
+				"po",
+				"pototalamount"
+			],
+			[
+				"mia",
+				"main-list2"
+			],
+			[
+				"disp",
+				"displaymode"
+			],
+			[
+				"dvi",
+				"divideline"
+			],
+			[
+				"div",
+				"divideline"
+			],
+			[
+				"Print",
+				"PrintBarcode"
+			],
+			[
+				"Del",
+				"DeletePODialog"
+			],
+			[
+				"editcode",
+				"editcode=\"J"
+			],
+			[
+				"Agent",
+				"AgentCode"
+			],
+			[
+				"chil",
+				"children〔function〕"
+			],
+			[
+				"Tax",
+				"TaxCodeDialog"
+			],
+			[
+				"Submi",
+				"SubmitForApproval"
+			],
+			[
+				"Su",
+				"Submit"
+			],
+			[
+				"PCP",
+				"PCPAYT"
+			],
+			[
+				"Dra",
+				"DrawingDate"
+			],
+			[
+				"val",
+				"validate"
+			],
+			[
+				"vend",
+				"vendorname"
+			],
+			[
+				"For",
+				"Foreign"
+			],
+			[
+				"sub",
+				"submitbutton"
+			],
+			[
+				"Dr",
+				"DrawingDate"
+			],
+			[
+				"Edit",
+				"EditTerm"
+			],
+			[
+				"To",
+				"TotalAmountDialog"
+			],
+			[
+				"Dele",
+				"DeletePO"
+			],
+			[
+				"YYY",
+				"YYYYMMDD"
+			],
+			[
+				"margin",
+				"margin-left"
+			],
+			[
+				"Tota",
+				"TotalPOAmountN2"
+			],
+			[
+				"Total",
+				"TotalConfirm"
+			],
+			[
+				"mag",
+				"margin-top"
+			],
+			[
+				"text-",
+				"text-align"
+			],
+			[
+				"min",
+				"main-list"
+			],
+			[
+				"main",
+				"main-list2"
+			],
+			[
+				"Amount",
+				"Amounts"
+			],
+			[
+				"Amoun",
+				"Amounts"
+			],
+			[
+				"text",
+				"text-transform"
+			],
+			[
+				"Pur",
+				"PurBy"
+			],
+			[
+				"task",
+				"task=AjaxAgentCodeToPU&agent"
+			],
+			[
+				"show",
+				"showPU"
+			],
+			[
+				"max",
+				"maxlength\tAttr"
+			],
+			[
+				"float",
+				"float: 〔property〕"
+			],
+			[
+				"a",
+				"after〔function〕"
+			],
+			[
+				"border-",
+				"border-bottom"
+			],
+			[
+				"font",
+				"font-style"
+			],
+			[
+				"ali",
+				"text-align"
+			],
+			[
+				"mysql_fetch",
+				"mysql_fetch_assoc〔function〕"
+			],
+			[
+				"MYSQL",
+				"MYSQL_NUM〔constant〕"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"_Se",
+				"$_SESSION〔variable〕"
+			],
+			[
+				"F7A",
+				"F7AHA2P"
+			],
+			[
+				"fn",
+				"FN7B1TP"
+			],
+			[
+				"count",
+				"countdownfunc〔function〕"
+			],
+			[
+				"CO",
+				"COPLNT"
+			],
+			[
+				"CS",
+				"CSECT"
+			],
+			[
+				"FN",
+				"FN7B1CP"
+			],
+			[
+				"A1C",
+				"A1CUR_w"
+			],
+			[
+				"sql",
+				"sql_CUR"
+			],
+			[
+				"A1",
+				"A1CUR"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 170.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"ss javas",
+				"Set Syntax: JavaScript (Babel)"
+			],
+			[
+				"ss h",
+				"Set Syntax: HTML"
+			],
+			[
+				"ss ht",
+				"Set Syntax: HTML (ASP)"
+			],
+			[
+				"ssql",
+				"Set Syntax: SQL"
+			],
+			[
+				"ss html",
+				"Set Syntax: HTML"
+			],
+			[
+				"ss javas b",
+				"Set Syntax: JavaScript (Babel)"
+			],
+			[
+				"ssjb",
+				"Set Syntax: JavaScript (Babel)"
+			],
+			[
+				"ssh",
+				"Set Syntax: HTML"
+			],
+			[
+				"sshtml",
+				"Set Syntax: HTML"
+			],
+			[
+				"sshml",
+				"Set Syntax: HTML"
+			],
+			[
+				"ss jab",
+				"Set Syntax: JavaScript (Babel)"
+			],
+			[
+				"ss javasb",
+				"Set Syntax: JavaScript (Babel)"
+			],
+			[
+				"ssq",
+				"Set Syntax: SQL"
+			],
+			[
+				"for s",
+				"ST: Format SQL"
+			],
+			[
+				"sssq",
+				"Set Syntax: SQL"
+			],
+			[
+				"forma",
+				"ST: Format SQL"
+			],
+			[
+				"ss sql",
+				"Set Syntax: SQL"
+			],
+			[
+				"javas",
+				"Set Syntax: JavaScript (Babel)"
+			],
+			[
+				"javja",
+				"Set Syntax: Java Server Page (JSP)"
+			],
+			[
+				"html",
+				"Set Syntax: HTML"
+			],
+			[
+				"form",
+				"ST: Format SQL"
+			],
+			[
+				"for",
+				"ST: Format SQL"
+			],
+			[
+				"ss javass",
+				"Set Syntax: JavaScript (Rails)"
+			],
+			[
+				"set javas",
+				"Set Syntax: JavaScript (Babel)"
+			],
+			[
+				"ss",
+				"Set Syntax: SQL"
+			],
+			[
+				"ss ",
+				"Set Syntax: C++"
+			],
+			[
+				"ss c++",
+				"Set Syntax: C++"
+			],
+			[
+				"set s java",
+				"Set Syntax: Java"
+			],
+			[
+				"ss java",
+				"Set Syntax: JavaScript (Babel)"
+			],
+			[
+				"ssp py",
+				"Set Syntax: Python"
+			],
+			[
+				"ssj acb",
+				"Set Syntax: JavaScript (Babel)"
+			],
+			[
+				"sss",
+				"Set Syntax: SQL"
+			],
+			[
+				"javasba",
+				"Set Syntax: JavaScript (Babel)"
+			],
+			[
+				"sssql",
+				"Set Syntax: SQL"
+			],
+			[
+				"java",
+				"Set Syntax: JavaScript (Babel)"
+			],
+			[
+				"html ",
+				"Snippet: html"
+			],
+			[
+				"sql for",
+				"ST: Format SQL"
+			],
+			[
+				"ss c ++",
+				"Set Syntax: C++"
+			],
+			[
+				"sq",
+				"ST: Format SQL"
+			],
+			[
+				"sql",
+				"ST: Format SQL"
+			],
+			[
+				"ss jb",
+				"Set Syntax: JavaScript (Babel)"
+			],
+			[
+				"ssthm",
+				"Snippet: Simple HTML5 Boilerplate"
+			],
+			[
+				"insp",
+				"Package Control: Install Package"
+			],
+			[
+				"sshmlt",
+				"Set Syntax: HTML (Tcl)"
+			],
+			[
+				"ssjavasb",
+				"Set Syntax: JavaScript (Babel)"
+			],
+			[
+				"ss java b",
+				"Set Syntax: JavaScript (Babel)"
+			],
+			[
+				"pack in",
+				"Package Control: Install Package"
+			],
+			[
+				"s javas",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"format",
+				"ST: Format SQL"
+			],
+			[
+				"SET SQL",
+				"Set Syntax: SQL"
+			],
+			[
+				"s java",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"ss ja",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"pa",
+				"Package Control: Install Package"
+			],
+			[
+				"ss j",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"ss javs",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"s sql",
+				"Set Syntax: SQL"
+			],
+			[
+				"set c++",
+				"Set Syntax: C++"
+			],
+			[
+				"set html",
+				"Set Syntax: HTML"
+			],
+			[
+				"s ja",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"set sq",
+				"Set Syntax: SQL"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"s html",
+				"ColorSchemeSelector: Random Color Scheme"
+			],
+			[
+				"s css",
+				"Set Syntax: CSS"
+			],
+			[
+				"sy html",
+				"Set Syntax: HTML"
+			],
+			[
+				"sy ja",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"sy sql",
+				"Set Syntax: SQL"
+			],
+			[
+				"sy jas ",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"sy htm",
+				"Set Syntax: HTML"
+			],
+			[
+				"syntax jav sc",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"syntax sql",
+				"Set Syntax: SQL"
+			],
+			[
+				"syntax h",
+				"Set Syntax: HTML"
+			],
+			[
+				"syntax c",
+				"Set Syntax: C"
+			],
+			[
+				"evernote ",
+				"Evernote: Open Evernote Note"
+			],
+			[
+				"evernote up",
+				"Evernote: Update Evernote Note"
+			],
+			[
+				"evernote open",
+				"Evernote: Open Evernote Note"
+			],
+			[
+				"evernote",
+				"Set Syntax: Evernote Note"
+			],
+			[
+				"evernote updat",
+				"Evernote: Update Evernote Note"
+			],
+			[
+				"ever",
+				"Evernote: Send to Evernote as new note"
+			],
+			[
+				"evernote save",
+				"Evernote: Send to Evernote as new note"
+			],
+			[
+				"syntax c++",
+				"Set Syntax: C++"
+			],
+			[
+				"formt",
+				"ST: Format Current SQL File"
+			],
+			[
+				"sn ++",
+				"Set Syntax: C++"
+			],
+			[
+				"sn sql",
+				"Set Syntax: SQL"
+			],
+			[
+				"sn c++",
+				"Set Syntax: C++"
+			],
+			[
+				"eve open",
+				"Evernote: Open Evernote Note"
+			],
+			[
+				"eveup",
+				"Evernote: Update Evernote Note"
+			],
+			[
+				"markdown header",
+				"Snippet: Markdown Header 1"
+			],
+			[
+				"evernote update",
+				"Evernote: Update Evernote Note"
+			],
+			[
+				"evernote setting",
+				"Evernote Settings: Default"
+			],
+			[
+				"evernote open ",
+				"Evernote: Open Evernote Note"
+			],
+			[
+				"evernote set",
+				"Evernote Settings: User"
+			],
+			[
+				"evernote  updae",
+				"Evernote: Update Evernote Note"
+			],
+			[
+				"evernote  open",
+				"Evernote: Update Evernote Note"
+			],
+			[
+				"evernote opn",
+				"Evernote: Open Evernote Note"
+			],
+			[
+				"syntax eve",
+				"Set Syntax: Evernote Note"
+			],
+			[
+				"syntax javas",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"syntax html",
+				"Set Syntax: HTML"
+			],
+			[
+				"pretti",
+				"HTMLPrettify"
+			],
+			[
+				"syntax jav",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"prett",
+				"HTMLPrettify"
+			],
+			[
+				"sy html ",
+				"Set Syntax: HTML"
+			],
+			[
+				"syt json",
+				"Set Syntax: JSON"
+			],
+			[
+				"syta html",
+				"Set Syntax: HTML"
+			],
+			[
+				"evernote save ",
+				"Evernote: Send to Evernote as new note"
+			],
+			[
+				"mark",
+				"Snippet: Markdown Header 2"
+			],
+			[
+				"package in",
+				"Package Control: Install Package"
+			],
+			[
+				"note se",
+				"Evernote Settings: User"
+			],
+			[
+				"stn java",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"ssy javasc",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"ssja",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"sset sql",
+				"Set Syntax: SQL"
+			],
+			[
+				"FORNA",
+				"ST: Format Current SQL File"
+			],
+			[
+				"pack",
+				"Package Control: Remove Package"
+			],
+			[
+				"ss htn",
+				"Set Syntax: HTML (Erlang)"
+			],
+			[
+				"ss c",
+				"Set Syntax: C++"
+			],
+			[
+				"ssjava",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"ssc",
+				"Set Syntax: C"
+			],
+			[
+				"sscss",
+				"Set Syntax: CSS"
+			],
+			[
+				"ssjavas",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"ssjavs",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"ssjav",
+				"Set Syntax: Java"
+			],
+			[
+				"sspl",
+				"Set Syntax: Plain Text"
+			],
+			[
+				"sssja",
+				"Set Syntax: JavaScript (Rails)"
+			],
+			[
+				"SSHTN",
+				"Set Syntax: HTML (Erlang)"
+			],
+			[
+				"set ssq",
+				"Set Syntax: SQL"
+			],
+			[
+				"ssjavss",
+				"Set Syntax: JavaScript (Rails)"
+			],
+			[
+				"ssphp",
+				"Set Syntax: PHP"
+			]
+		],
+		"width": 476.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"print",
+			"python",
+			"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/linmike/nodetest/summer.html",
+		"/C/Users/linmike/nodetest/winter.html",
+		"/C/Users/linmike/nodetest/myfirstmodule.js",
+		"/C/Users/linmike/nodetest/demo_readfile.js",
+		"/C/Users/linmike/nodetest/demofile1.html",
+		"/C/Users/linmike/Desktop/miii.html",
+		"/C/Users/linmike/Desktop/test123.html",
+		"/C/Users/linmike/Desktop/New Text Document (3).html",
+		"/C/Users/linmike/Desktop/print_example_1.html",
+		"/C/Users/linmike/Desktop/print_example_2.html",
+		"/C/Users/linmike/Desktop/table.html",
+		"/C/Users/linmike/Desktop/[4096madhead@eyny]追愛總動員 S4.7z/How I Met Your Mother S04E02 The Best Burger in New York (1080p x265 Joy).srt",
+		"/C/Users/linmike/Desktop/[4096madhead@eyny]追愛總動員 S8.7z/[4096madhead@eyny]追愛總動員 S8.7z.001.part",
+		"/C/Users/linmike/Desktop/excel example.cpp",
+		"/C/Users/linmike/Desktop/email exampl.cpp",
+		"/C/Users/linmike/Desktop/test.cpp",
+		"/C/MAMP/bin/apache/lib/ModPerl/CPAN/Mirrors.pm",
+		"/C/Users/linmike/Desktop/CS631.zip",
+		"/C/Users/linmike/AppData/Local/Temp/Temp1_Managing+State+Subtitles.zip/8 - Updating The State - lang_en.srt",
+		"/C/Users/linmike/Desktop/project 1/exercise 2 - all together/App.js",
+		"/C/Users/linmike/AppData/Local/Temp/Temp1_Lifecycle+Events+Subtitles.zip/2 - Use ComponentDidMount - lang_en.srt",
+		"/C/Users/linmike/AppData/Local/Temp/Temp1_Lifecycle+Events+Subtitles.zip/1 - Conceptualize The Lifecycle Of A Component - lang_en.srt",
+		"/C/MAMP/bin/apache/lib/ModPerl/CGI/Cookie.pm",
+		"/C/Users/linmike/Desktop/accordion test.html",
+		"/C/Users/linmike/Desktop/test.html",
+		"//fuhqhds1/usr/fuhq/fuhqmc/Fuhqmcma/WebSmartSnippets/DropdownList(Plant Ajax Change) --- JS.html",
+		"/C/Users/linmike/Desktop/badformed.fo",
+		"/C/Users/linmike/Desktop/Codementor html to pdf/index.html",
+		"/C/Users/linmike/Desktop/python example.py",
+		"/C/Users/linmike/AppData/Roaming/Sublime Text 3/Packages/User/Anaconda.sublime-settings",
+		"/C/Users/linmike/Desktop/[4096madhead分享於eyny]Black.Panther.2018.Bluray.1080p.DD5.1.H265-d3g/[4096madhead分享於eyny]遠鑑字幕組製作 4096madhead修飾.rar",
+		"/C/Users/linmike/Desktop/[4096madhead分享於eyny]Black.Panther.2018.Bluray.1080p.DD5.1.H265-d3g/[4096madhead分享於eyny]Black.Panther.2018.Bluray.1080p.DD5.1.H265-d3g.part1.rar",
+		"/C/Users/linmike/Desktop/rrr.html",
+		"/C/Users/linmike/Desktop/v7apjb1ab.pdw",
+		"/C/Users/linmike/AppData/Roaming/Sublime Text 3/Packages/User/Evernote.sublime-settings",
+		"/C/Users/linmike/AppData/Roaming/Sublime Text 3/Packages/Evernote/Evernote.sublime-settings",
+		"/C/Users/linmike/AppData/Roaming/Sublime Text 3/Packages/HTML-CSS-JS Prettify/.jsbeautifyrc.defaults.json",
+		"/C/Users/linmike/Desktop/flickr_broadway_72157661435105803.zip",
+		"/C/Users/linmike/Desktop/flickr_2015-road-trip-day-7_72157655720120880.zip",
+		"/C/MAMP/htdocs/testing webstorage.html",
+		"/C/MAMP/htdocs/path/test.php",
+		"/C/Users/linmike/Desktop/test12344.html",
+		"/C/Users/linmike/Desktop/test12355.html",
+		"/C/Users/linmike/Desktop/test1.html",
+		"/C/Users/linmike/Desktop/ds.html",
+		"/C/MAMP/htdocs/validation test.html",
+		"/C/Users/linmike/Desktop/test randy.html",
+		"/C/Users/linmike/Desktop/validation test.html",
+		"/C/Users/linmike/Desktop/loading sign snippets.html",
+		"/C/Users/linmike/Desktop/tst.html",
+		"/C/MAMP/htdocs/session.php",
+		"/C/MAMP/htdocs/imageGD.php",
+		"/C/Users/linmike/OneDrive/Work/Other/htdocs/BuyerRemark.html",
+		"/C/Users/linmike/OneDrive/Work/Other/htdocs/AddPOTerm.html",
+		"/C/Users/linmike/OneDrive/Work/Other/htdocs/EditPOTerm.html",
+		"/C/Users/linmike/OneDrive/Work/Other/htdocs/EditPO.html",
+		"/C/MAMP/htdocs/testloading.html",
+		"/C/Users/linmike/AppData/Roaming/Sublime Text 3/Packages/HTML-CSS-JS Prettify/.jsbeautifyrc",
+		"/C/MAMP/htdocs/test3.html",
+		"/C/MAMP/htdocs/test2.html",
+		"/C/Users/linmike/Desktop/test2.html",
+		"/C/MAMP/htdocs/uCareUSnew/uCareUSnew/nhome/module/carework/form1.php",
+		"/C/MAMP/htdocs/uCareUSnew/uCareUSnew/class/DB.php",
+		"/C/MAMP/htdocs/uCareUSnew/uCareUSnew/class/DB2.php",
+		"/C/MAMP/bin/python/Lib/test/test_pprint.py",
+		"/C/MAMP/htdocs/DANJ/header.php",
+		"/C/MAMP/htdocs/DANJ/assets/css/main.css",
+		"/C/MAMP/htdocs/header.php",
+		"/C/MAMP/htdocs/index.php",
+		"/C/MAMP/htdocs/tab-musicstudio2016.php",
+		"/C/MAMP/htdocs/tab-musicstudio2015.php",
+		"/C/MAMP/htdocs/tab-activity.php",
+		"/C/MAMP/htdocs/tab-about.php",
+		"/C/MAMP/htdocs/tab-2016.php",
+		"/C/MAMP/htdocs/tab-2015.php",
+		"/C/MAMP/htdocs/tab-2014.php",
+		"/C/MAMP/htdocs/tab-2013.php",
+		"/C/MAMP/htdocs/tab-2012.php",
+		"/C/MAMP/htdocs/tab-2009.php",
+		"/C/MAMP/htdocs/tab-2010.php",
+		"/C/MAMP/htdocs/tab-2011.php",
+		"/C/MAMP/htdocs/footer.php",
+		"/C/MAMP/htdocs/assets/css/main.css",
+		"/C/MAMP/htdocs/tab-musicstudio2015.html",
+		"/C/Users/linmike/OneDrive/Work/Other/htdocs/assets/css/main.css",
+		"/C/MAMP/htdocs/danj contacts.php",
+		"/C/MAMP/htdocs/tab-2010.html",
+		"/C/MAMP/htdocs/tab-2011.html",
+		"/C/MAMP/htdocs/tab-2009.html",
+		"/C/MAMP/htdocs/testing.php",
+		"/C/Users/linmike/OneDrive/Work/Other/htdocs/danj contacts.php",
+		"/C/MAMP/htdocs/exception.php",
+		"/C/MAMP/htdocs/cookie test.php",
+		"/C/Users/linmike/OneDrive/Work/Other/htdocs/imageGD.php",
+		"/C/Users/linmike/OneDrive/Work/Other/htdocs/exception.php",
+		"/C/Users/linmike/AppData/Roaming/Sublime Text 3/Packages/User/ColorHighlighter.sublime-settings",
+		"/C/Users/linmike/AppData/Roaming/Sublime Text 3/Packages/Color Highlighter/ColorHighlighter.sublime-settings",
+		"/C/Users/linmike/OneDrive/Work/Other/htdocs/EditPODetailNotUse.html",
+		"/C/MAMP/htdocs/AddPO.html",
+		"/C/MAMP/htdocs/EditPO.html",
+		"/C/MAMP/htdocs/EditPODetail.html",
+		"/C/MAMP/htdocs/EditPOTerm.html",
+		"/C/MAMP/htdocs/MultiSch.html",
+		"/C/MAMP/htdocs/va.html",
+		"/C/Users/linmike/OneDrive/Work/utility.js",
+		"/C/Users/linmike/OneDrive/Work/untitled.js",
+		"/C/MAMP/htdocs/testeditor.html",
+		"/C/Users/linmike/OneDrive/Work/vmaaa41r.js",
+		"/C/MAMP/htdocs/fdf.html",
+		"/C/Users/linmike/OneDrive/Work/$listSite.js",
+		"/C/Users/linmike/OneDrive/Work/$listPlant.js",
+		"/C/Users/linmike/AppData/Roaming/Sublime Text 3/Packages/HTML-CSS-JS Prettify/HTMLPrettify.sublime-settings",
+		"/C/Users/linmike/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/C/Users/linmike/Documents/uCareUSnew/uCareUSnew/nhome/module/nurseform/form1.php",
+		"/C/MAMP/htdocs/testeditor",
+		"/C/MAMP/htdocs/main.css",
+		"/C/Program Files/Sublime Text 3/danj contacts.html",
+		"/C/Users/linmike/Desktop/54f903090001276f00000000/XMLHttpRequestjQuery.html",
+		"/C/Users/linmike/Desktop/54f903090001276f00000000/serverjson2.php",
+		"/C/Users/linmike/Desktop/54f903090001276f00000000/serverjson.php",
+		"/C/Users/linmike/Desktop/54f903090001276f00000000/XMLHttpRequestjQueryJsonp.html",
+		"/C/Users/linmike/Desktop/54f903090001276f00000000/serverjsonp.php",
+		"/C/Users/linmike/Desktop/54f903090001276f00000000/XMLHttpRequestJson.html",
+		"/C/Users/linmike/Desktop/54f903090001276f00000000/XMLHttpRequest.html",
+		"/C/MAMP/htdocs/uCareUSnew/uCareSystemLogin.php",
+		"/C/Users/linmike/Desktop/54f903090001276f00000000/server.php",
+		"/C/MAMP/htdocs/test.php",
+		"/C/MAMP/htdocs/test.html"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 131.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 35.0
+	},
+	"input":
+	{
+		"height": 48.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "myfirstmodule.sublime-project",
+	"replace":
+	{
+		"height": 66.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"main.css",
+				"MAMP\\htdocs\\DANJ\\assets\\css\\main.css"
+			],
+			[
+				"mamp/htdocs/assets/css/main",
+				"MAMP\\htdocs\\assets\\css\\main.css"
+			],
+			[
+				"main",
+				"htdocs\\assets\\css\\main.css"
+			],
+			[
+				"",
+				"untitled"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 171.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
